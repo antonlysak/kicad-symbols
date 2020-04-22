@@ -90,6 +90,12 @@ K Crystal Clock Oscillator
 F http://www.conwin.com/datasheets/cx/cx030.pdf
 $ENDCMP
 #
+$CMP DSC557-03xxSxx
+D Crystal-less two output PCIe Gen1/2/3 Clock Generator, TSSOP-16
+K 100 MHZ LVCMOS LVPECL LVDS HCSL
+F http://ww1.microchip.com/downloads/en/devicedoc/dsc557-03%20datasheet%20mkqbpd12091701-2.pdf
+$ENDCMP
+#
 $CMP ECS-2520MV-xxx-xx
 D HCMOS Crystal Clock Oscillator, 2.5x2.0 mm SMD
 K Crystal Clock Oscillator ECS SMD
